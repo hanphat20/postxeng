@@ -1431,10 +1431,6 @@ Thông tin quan trọng:
 
 {bullets}
 
-Thông tin liên hệ hỗ trợ:
-SĐT: 0927395058
-Telegram: @cattien999
-
 Hashtags:
 {' '.join(tags)}"""
         ).strip()
